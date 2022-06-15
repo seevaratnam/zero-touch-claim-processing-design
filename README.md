@@ -1,16 +1,13 @@
 
 
-**Straight Through Claim**
-
-**Processing**
-
+**Straight Through Claim Processing**
 Solution Breakdown
 
 
 
 
 
-Content
+*Content*
 
 • Vision, Mission, Goal
 
@@ -24,55 +21,32 @@ Content
 
 • Stages of Solution Delivery
 
-2
-
-
-
-
-
-Our Vision, Mission and Goal
 
 **Vision**
 
-Frictionless Claim Experience
-
-Automated Claim Entry
-
-Lights-out business
+* Frictionless Claim Experience
+* Automated Claim Entry
+* Lights-out business
 
 **Mission**
 
-Direct Integration, KYC and Single Invoice
+* Direct Integration, KYC and Single Invoice
 
 **Goal**
 
-Streamline the Claim Process: STP
-
-3
+* Streamline the Claim Process: STP
 
 
+*Quotes*
 
-
-
-4
-
-Quotes
-
-**Opportunity** is missed by **most**
-
-**people** because it dresses in
-
-**overalls** and looks **like work.**
+**Opportunity** is missed by **most** **people** because it dresses in **overalls** and looks **like work.**
 
 **…Thomas Edison**
 
 
+*Product Strategy*
 
-
-
-Product Strategy
-
-
+![](images/product-strategy.png)
 
 
 
