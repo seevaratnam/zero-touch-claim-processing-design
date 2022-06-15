@@ -1,7 +1,6 @@
 ![](images/stp.png)
 
 ## *Content*
-
 • Vision, Mission, Goal
 
 • Problem Statement
@@ -16,43 +15,34 @@
 
 
 ## **Vision**
-
 * Frictionless Claim Experience
 * Automated Claim Entry
 * Lights-out business
 
 ## **Mission**
-
 * Direct Integration, KYC and Single Invoice
 
 ## **Goal**
-
 * Streamline the Claim Process: STP
 
-
 ## *Quotes*
-
 **Opportunity** is missed by **most** **people** because it dresses in **overalls** and looks **like work.**
 
 **…Thomas Edison**
 
 
 ## *Product Strategy*
-
 ![](images/product-strategy.png)
 
 ## *Product Evolution*
-
 ![](images/product-evolution.png)
 
 
 ## *Client Evolution Fitment*
-
 ![](images/client-fitment.png)
 
 
 ## *AWS Partnership*
-
 ![](images/aws-partnership.png)
 
 ## *Platform Architecture Evolution*
@@ -60,3 +50,9 @@
 
 ## *Aligned Solution Architecture*
 ![](images/aligned-solution-architecture.png)
+
+## *Solution Components*
+![](images/solution-components.png)
+
+## *Work Breakdown*
+![](images/work-breakdown.png)
