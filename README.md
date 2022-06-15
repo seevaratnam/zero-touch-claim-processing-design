@@ -1,7 +1,4 @@
-
-
-**Straight Through Claim Processing**
-Solution Breakdown
+![](images/stp.png)
 
 
 
